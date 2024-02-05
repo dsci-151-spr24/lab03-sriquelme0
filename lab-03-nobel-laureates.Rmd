@@ -334,7 +334,7 @@ ggplot(data = nobel_living_science, aes(y = country_us, fill = born_country_us))
 
 
 ```
-    
+the graph doesn't support the buzzfeed claim. they said that people who got the prize in the USA, most of them weren't American but that's not what the graph shows.    
 
 🧶 ✅ ⬆️ Knit, *commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
